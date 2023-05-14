@@ -76,8 +76,7 @@ content:
         #link: Link to company (optional)
         quote: >
           One of the biggest telecom companies in Iran.
-        description: Working on different projects like, CRM, Siebel, and BDI (Big Data Integration) Project. In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
-
+description: 123
 	- layout: left
         title: Huawei
         sub_title: BSS Service Engineer, Test Engineer
