@@ -73,7 +73,7 @@ content:
         title: Behsa
         sub_title: Data Engineer , BSS Engineer
         caption: June 2019 – July 2023
-        #link: Link to company (optional)
+        link: Link to company (optional)
         quote: >
           One of the biggest telecom companies in Iran.
 	description: 123
@@ -81,7 +81,7 @@ content:
         title: Huawei
         sub_title: BSS Service Engineer, Test Engineer
         caption: Oct 2017 – June 2019
-        #link: Link to company (optional)
+        link: Link to company (optional)
         quote: >
           One of the biggest telecom company in the world.
         description: Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database
