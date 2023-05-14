@@ -76,8 +76,7 @@ content:
         #link: Link to company (optional)
         quote: >
           One of the biggest telecom companies in Iran.
-        description: Working on different projects like, CRM, Siebel, and BDI (Big Data Integration) Project.
-In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
+        description: Working on different projects like, CRM, Siebel, and BDI (Big Data Integration) Project. In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
 
 	- layout: left
         title: Huawei
@@ -103,8 +102,7 @@ In this Project, we used a data pipeline to replace the Reporting System of MCI.
         caption: 2011 - 2016
         #quote: >
         # Short institution or course description (optional)
-        description: Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)
-Won in Photography Competition , Teacher Assistant
+        description: Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013), Won in Photography Competition , Teacher Assistant
 
   - title: Skills
     layout: text
@@ -114,8 +112,7 @@ Won in Photography Competition , Teacher Assistant
     layout: text
     content: | # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      #Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
