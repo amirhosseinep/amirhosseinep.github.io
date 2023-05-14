@@ -76,7 +76,7 @@ content:
         #link: Link to company (optional)
         quote: >
           One of the biggest telecom companies in Iran.
-        description: | Working on different projects like, CRM, Siebel, and BDI (Big Data Integration) Project.
+        description: Working on different projects like, CRM, Siebel, and BDI (Big Data Integration) Project.
 In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
 
 	- layout: left
@@ -86,7 +86,7 @@ In this Project, we used a data pipeline to replace the Reporting System of MCI.
         #link: Link to company (optional)
         quote: >
           One of the biggest telecom company in the world.
-        description: | Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database
+        description: Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database
   - title: Education
     layout: list
     content:
@@ -96,33 +96,19 @@ In this Project, we used a data pipeline to replace the Reporting System of MCI.
         caption: 2016 - 2019
         #quote: >
         # Short institution or course description (optional)
-        description: | Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation
+        description: Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation
 	- layout: left
         title: Shomal University of Amol
         sub_title: Computer Engineering - Software (Bachelor's degree)
         caption: 2011 - 2016
         #quote: >
         # Short institution or course description (optional)
-        description: | Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)
+        description: Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)
 Won in Photography Competition , Teacher Assistant
 
   - title: Skills
     layout: text
-    content: | 
-Hard Skills
-Python: 90%
-PySpark: 75%
-Oracle PL/SQL Developer: 85%
-MongoDB: 65%
-Telecommunications: 90%
-Siebel eScript: 65%
-Soft Skills
-Goal-Oriented: 80%
-Collaboration: 90%
-Adaptability: 75%
-Problem Solving: 80%
-Empathy: 90%
-Creativity: 80%
+    content: skills
 
   - title: A Little More About Me
     layout: text
