@@ -87,7 +87,15 @@ content:
   - title: Education
     layout: list
     content:
-      - layout: top-right
+      - layout: top-left
+        title: Université Laval
+        sub_title: Administrative Sciences - Operations and Decision Systems (Ph.D)
+        caption: 2023 - Now
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Thesis: How can unsupervised learning improve a decision support system for maritime search operations planning? This RQ is in three parts: (i) How to streamline drift models while retaining their important features? (ii) How clustering and statistical learning can help select search plans. (iii) What are the benefits for search mission
+      - layout: top-left
         title: Shomal University of Amol
         sub_title: Artificial Intelligence (Master's degree)
         caption: 2016 - 2019
@@ -95,7 +103,7 @@ content:
 
         description: | # this will include new lines to allow paragraphs
           Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation.
-      - layout: top-right
+      - layout: top-left
         title: Shomal University of Amol
         sub_title: Computer Engineering - Software (Bachelor's degree)
         caption: 2011 - 2016
