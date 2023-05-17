@@ -120,9 +120,7 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - Programming languages and Frameworks: Python, PySpark
-      - Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS
-      - Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity
+      * Programming languages and Frameworks: Python, PySpark
 
 # Footer
 footer_show_references: true
