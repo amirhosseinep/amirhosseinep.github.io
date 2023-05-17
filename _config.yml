@@ -72,9 +72,18 @@ content:
         caption: June 2019 – July 2023
         link: Link to company (optional)
         quote: >
-          One of the biggest telecom companies in Iran.
+
         description: | # this will include new lines to allow paragraphs
-          In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
+          Working in one of the biggest telecom companies in Iran. In this position, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
+      - layout: left
+        title: Huawei
+        sub_title: BSS Service Engineer, Test Engineer
+        caption: Oct 2017 – June 2019
+        link: Link to company (optional)
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Working in one of the biggest telecom companies in the world. Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database.
   - title: Education
     layout: list
     content:
