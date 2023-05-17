@@ -118,7 +118,7 @@ content:
           Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013), Won in Photography Competition, Teacher Assistant
 
   - title: Skills
-    layout: list
+    layout: text
     content: | # this will include new lines to allow paragraphs
       - Programming languages and Frameworks: Python, PySpark
       - Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS
