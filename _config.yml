@@ -88,13 +88,22 @@ content:
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: Shomal University of Amol
+        sub_title: Artificial Intelligence (Master's degree)
+        caption: 2016 - 2019
         quote: >
-          Short institution or course description (optional)
+
         description: | # this will include new lines to allow paragraphs
-          Description of qualification
+          Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation.
+      - layout: top-right
+        title: Shomal University of Amol
+        sub_title: Computer Engineering - Software (Bachelor's degree)
+        caption: 2011 - 2016
+        quote: >
+
+        description: | # this will include new lines to allow paragraphs
+          Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013), Won in Photography Competition, Teacher Assistant
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
