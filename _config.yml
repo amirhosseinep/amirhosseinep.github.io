@@ -39,7 +39,8 @@ linkedin_username: amirhosseinep
 about_profile_image: /images/Amirhossein_Esmaeilpour.JPG
 about_content: | # this will include new lines to allow paragraphs
   My name is Amirhossein Esmaeilpour. +5 Years’ Experience in Telecom domain in MCCI, the biggest telecom company in the Middle East. I have high programming, analytical thinking, and problem-solving skills developed through 5 years of experience as a Developer, System Analyst, and Tester in Iran Market and in Digital Transformation and multiple academic projects. Meantime, I studied <mark>AI</mark> for my Master’s degree in order to improve my knowledge to state-of-the-art science in my favorite field. Currently, I am studying Doctorate in <mark>Administrative Sciences</mark>, major in Operations and Decision Systems in at the business school of <mark>Laval University</mark>. My project is part of a research project related to decision support for <mark>search and rescue operations</mark> under Canadian jurisdiction. This is a new journey for me...
-  #- Images ![alt text](/images/landscape-trees.jpg "Trees")
+  
+  ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
@@ -65,15 +66,15 @@ content:
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
+      - layout: left
+        title: Behsa
+        sub_title: Data Engineer , BSS Engineer
+        caption: June 2019 – July 2023
         link: Link to company (optional)
         quote: >
-          Short description of the company (optional)
+          One of the biggest telecom companies in Iran.
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          In this Project, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
   - title: Education
     layout: list
     content:
