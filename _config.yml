@@ -17,9 +17,7 @@ website: https://amirhosseinep.github.io
 darkmode: false
 
 # Social links
-twitter_username: amirhosseinep
 github_username:  amirhosseinep
-facebook_username: amirhosseinep
 linkedin_username: amirhosseinep
 
 # - title: another link
@@ -36,7 +34,7 @@ linkedin_username: amirhosseinep
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /images/Amirhossein_Esmaeilpour.JPG
 about_content: | # this will include new lines to allow paragraphs
-  My name is <mark>Amirhossein</mark> Esmaeilpour. +5 Years’ Experience in <mark>Telecom</mark> domain in MCCI, the biggest telecom company in the Middle East. I have high programming, analytical thinking, and problem-solving skills developed through 5 years of experience as a <mark>Developer</mark>, <mark>System Analyst</mark>, and <mark>Tester</mark> in Iran Market and in Digital Transformation and multiple academic projects. Meantime, I studied <mark>AI</mark> for my Master’s degree in order to improve my knowledge to state-of-the-art science in my favorite field. Currently, I am studying Doctorate in <mark>Administrative Sciences</mark>, major in Operations and Decision Systems at the business school of <mark>Laval University</mark>. My project is part of a research project related to decision support for <mark>Search and Rescue Operations</mark> under Canadian jurisdiction. This is a new journey for me...
+  My name is <mark>Amirhossein</mark> Esmaeilpour. +5 Years’ Experience in <mark>Telecom</mark> domain in MCCI, the biggest telecom company in the Middle East. I have developed strong programming, analytical thinking, and problem-solving skills through 5 years of experience as a <mark>Developer</mark>, <mark>System Analyst</mark>, and <mark>Tester</mark> in the Iranian market and through multiple digital transformation projects and academic endeavors. Meanwhile, I studied <mark>AI</mark> for my Master’s degree to advance my knowledge in cutting-edge technologies in my favorite field. Currently, I am pursuing a Doctorate in <mark>Administrative Sciences</mark>, specializing in Operations and Decision Systems at the business school of <mark>Laval University</mark>. My research is part of a project related to decision support for <mark>Search and Rescue Operations</mark> under Canadian jurisdiction. This marks an exciting new chapter in my professional journey.
   <br/>
   <br/>
   <img src="/images/Photo2.JPG" 
