@@ -99,7 +99,42 @@ content:
       * Programming languages and Frameworks: Python, PySpark
       * Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS
       * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity
+  - title: Application Letters  
+    layout: text  
+    content: |  
+      ### Lettre de Candidature - Emploi  
+      **Québec, le 26 février 2025**  
+      Comité des bourses  
+      Université Idéale  
+      2255 rue de l'université  
+      Québec, QC, Canada, G1V 0A6  
 
+      **Objet :** Candidature pour le poste de [Nom du poste]  
+
+      Madame, Monsieur,  
+
+      Je vous écris pour candidater au poste de [Nom du poste] chez [Nom de l’entreprise]. Fort de mon expérience en génie logiciel et en intelligence artificielle, ainsi que de mes cinq années de travail chez Huawei, je suis convaincu que je peux apporter une contribution significative à votre équipe.  
+
+      [Continuer avec le reste de la lettre...]  
+
+      ---  
+      
+      ### Demande de Stage  
+      **Québec, le 26 février 2025**  
+      Comité des bourses  
+      Université Idéale  
+      2255 rue de l'université  
+      Québec, QC, Canada, G1V 0A6  
+
+      **Objet :** Demande de stage en [Domaine du stage]  
+
+      Madame, Monsieur,  
+
+      Je suis actuellement doctorant en sciences de l’administration, spécialisé en intelligence artificielle, et je vous écris pour solliciter un stage au sein de [Nom de l’entreprise/institution] pour [Dates du stage]. Votre travail dans [Domaine pertinent] correspond à mes recherches et à mes objectifs professionnels.  
+
+      [Continuer avec le reste de la lettre...]  
+
+      ---  
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
