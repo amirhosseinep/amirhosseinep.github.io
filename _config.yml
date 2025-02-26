@@ -1,104 +1,83 @@
-# Site
-repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
-# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+# Site  
+repository: amirhosseinep/amirhosseinep.github.io  
+# favicon: images/favicon.ico  
 
-# Content configuration version
-version: 2
+# Content configuration version  
+version: 2  
 
-# Personal info
-name: Amirhossein Esmaeilpour
-title: Ph.D Student
-email: amirhossein.esmaeilpour@ulaval.ca
-# email_title: Email (Email title override)
-website: https://amirhosseinep.github.io
-# website_title: Web (Website title override)
+# Personal info  
+name: Amirhossein Esmaeilpour  
+title: Ph.D Student  
+email: amirhossein.esmaeilpour@ulaval.ca  
+website: https://amirhosseinep.github.io  
 
-# Dark Mode (true/false/never)
-darkmode: false
+# Dark Mode  
+darkmode: false  
 
-# Social links
-github_username:  amirhosseinep
-linkedin_username: amirhosseinep
+# Social links  
+github_username: amirhosseinep  
+linkedin_username: amirhosseinep  
 
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-#   url: Link url (eg. https://google.com)
+# About Section  
+about_profile_image: /images/Amirhossein_Esmaeilpour.JPG  
+about_content: |  
+  My name is <mark>Amirhossein</mark> Esmaeilpour. +5 Years’ Experience in <mark>Telecom</mark> domain in MCCI, the biggest telecom company in the Middle East. I have developed strong programming, analytical thinking, and problem-solving skills through 5 years of experience as a <mark>Developer</mark>, <mark>System Analyst</mark>, and <mark>Tester</mark> in the Iranian market and through multiple digital transformation projects and academic endeavors. Meanwhile, I studied <mark>AI</mark> for my Master’s degree to advance my knowledge in cutting-edge technologies in my favorite field. Currently, I am pursuing a Doctorate in <mark>Administrative Sciences</mark>, specializing in Operations and Decision Systems at the business school of <mark>Laval University</mark>. My research is part of a project related to decision support for <mark>Search and Rescue Operations</mark> under Canadian jurisdiction. This marks an exciting new chapter in my professional journey.  
+  <br/><br/>  
+  <img src="/images/Photo2.JPG" alt="AtWork" width="640" height="427" style="display: block; margin: 0 auto" />  
 
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
- 
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: /images/Amirhossein_Esmaeilpour.JPG
-about_content: | # this will include new lines to allow paragraphs
-  My name is <mark>Amirhossein</mark> Esmaeilpour. +5 Years’ Experience in <mark>Telecom</mark> domain in MCCI, the biggest telecom company in the Middle East. I have developed strong programming, analytical thinking, and problem-solving skills through 5 years of experience as a <mark>Developer</mark>, <mark>System Analyst</mark>, and <mark>Tester</mark> in the Iranian market and through multiple digital transformation projects and academic endeavors. Meanwhile, I studied <mark>AI</mark> for my Master’s degree to advance my knowledge in cutting-edge technologies in my favorite field. Currently, I am pursuing a Doctorate in <mark>Administrative Sciences</mark>, specializing in Operations and Decision Systems at the business school of <mark>Laval University</mark>. My research is part of a project related to decision support for <mark>Search and Rescue Operations</mark> under Canadian jurisdiction. This marks an exciting new chapter in my professional journey.
-  <br/>
-  <br/>
-  <img src="/images/Photo2.JPG" 
-        alt="AtWork" 
-        width="640" 
-        height="427" 
-        style="display: block; margin: 0 auto" />
+content:  
+  - title: Experience  
+    layout: list  
+    content:  
+      - layout: left  
+        title: Behsa  
+        sub_title: Data Engineer , BSS Engineer  
+        caption: June 2019 – July 2023  
+        link:   
+        quote: >  
+        description: |  
+          Working in one of the biggest telecom companies in Iran. In this position, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.  
+      - layout: left  
+        title: Huawei  
+        sub_title: BSS Service Engineer, Test Engineer  
+        caption: Oct 2017 – June 2019  
+        link:   
+        quote: >  
+        description: |  
+          Working in one of the biggest telecom companies in the world. Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database.  
 
-content:
-  - title: Experience
-    layout: list
-    content:
-      - layout: left
-        title: Behsa
-        sub_title: Data Engineer , BSS Engineer
-        caption: June 2019 – July 2023
-        link: Link to company (optional)
-        quote: >
+  - title: Education  
+    layout: list  
+    content:  
+      - layout: top-left  
+        title: Université Laval  
+        sub_title: Administrative Sciences - Operations and Decision Systems (Ph.D)  
+        caption: 2023 - Now  
+        quote: >  
+        description: |  
+          Thesis: How can unsupervised learning improve a decision support system for maritime search operations planning? This RQ is in three parts: (i) How to streamline drift models while retaining their important features? (ii) How clustering and statistical learning can help select search plans. (iii) What are the benefits for search mission  
+      - layout: top-left  
+        title: Shomal University of Amol  
+        sub_title: Artificial Intelligence (Master's degree)  
+        caption: 2016 - 2019  
+        quote: >  
+        description: |  
+          Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation.  
+      - layout: top-left  
+        title: Shomal University of Amol  
+        sub_title: Computer Engineering - Software (Bachelor's degree)  
+        caption: 2011 - 2016  
+        quote: >  
+        description: |  
+          Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013), Won in Photography Competition, Teacher Assistant  
 
-        description: | # this will include new lines to allow paragraphs
-          Working in one of the biggest telecom companies in Iran. In this position, we used a data pipeline to replace the Reporting System of MCI. I was responsible for Developing PySpark codes and then developing DAGs using Apache Airflow.
-      - layout: left
-        title: Huawei
-        sub_title: BSS Service Engineer, Test Engineer
-        caption: Oct 2017 – June 2019
-        link: Link to company (optional)
-        quote: >
+  - title: Skills  
+    layout: text  
+    content: |  
+      * Programming languages and Frameworks: Python, PySpark  
+      * Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS  
+      * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity  
 
-        description: | # this will include new lines to allow paragraphs
-          Working in one of the biggest telecom companies in the world. Support product team in delivering project and targets, Conduct UAT and IOT E2E (End to End) test with customer for both B2C and B2B Teams, Monitor, track and support to improve product performance effectively by using tests results, application logs, Debug the code, and Troubleshooting and Check the Log from Database.
-  - title: Education
-    layout: list
-    content:
-      - layout: top-left
-        title: Université Laval
-        sub_title: Administrative Sciences - Operations and Decision Systems (Ph.D)
-        caption: 2023 - Now
-        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Thesis: How can unsupervised learning improve a decision support system for maritime search operations planning? This RQ is in three parts: (i) How to streamline drift models while retaining their important features? (ii) How clustering and statistical learning can help select search plans. (iii) What are the benefits for search mission
-      - layout: top-left
-        title: Shomal University of Amol
-        sub_title: Artificial Intelligence (Master's degree)
-        caption: 2016 - 2019
-        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Master Thesis: Using FCM algorithm optimized by Genetic algorithm in Collaborative Filtering Recommendation.
-      - layout: top-left
-        title: Shomal University of Amol
-        sub_title: Computer Engineering - Software (Bachelor's degree)
-        caption: 2011 - 2016
-        quote: >
-
-        description: | # this will include new lines to allow paragraphs
-          Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013)Activities and societies: Member of Poetry Society in University (2015), One of the members of Corporate Community Of Shomal University (2013), Won in Photography Competition, Teacher Assistant
-
-  - title: Skills
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      * Programming languages and Frameworks: Python, PySpark
-      * Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS
-      * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity
   - title: Application Letters  
     layout: text  
     content: |  
@@ -115,10 +94,21 @@ content:
 
       Je vous écris pour candidater au poste de [Nom du poste] chez [Nom de l’entreprise]. Fort de mon expérience en génie logiciel et en intelligence artificielle, ainsi que de mes cinq années de travail chez Huawei, je suis convaincu que je peux apporter une contribution significative à votre équipe.  
 
-      [Continuer avec le reste de la lettre...]  
+      J’ai obtenu un diplôme en génie logiciel, suivi d’une maîtrise en intelligence artificielle. Ces formations m’ont permis de développer des compétences solides en programmation, en analyse de données et en résolution de problèmes complexes. Pendant cinq ans chez Huawei, j’ai travaillé comme développeur, analyste et testeur de systèmes pour le marché iranien. J’ai notamment participé à des projets où j’ai conçu et testé des logiciels, renforçant mon expertise technique et mes compétences en gestion de projet. Cette expérience internationale m’a appris à travailler en équipe et à répondre à des défis techniques variés, ce qui serait utile pour votre entreprise.  
+
+      Je suis motivé par ce poste car je souhaite participer à des projets innovants en IA. Il est important que je puisse mettre mes compétences au service d’une entreprise qui valorise le développement technologique. Mon objectif est de continuer à grandir professionnellement tout en contribuant à des solutions modernes.  
+
+      Je vous remercie de l’attention que vous porterez à ma candidature. Je suis disponible pour un entretien afin de discuter de mes qualifications et de ma motivation.  
+
+      Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.  
+
+      Amirhossein Esmaeilpour  
+      830 rue Ernest Gagnon  
+      Québec, QC, G1S 4M5  
+      Téléphone: 438 9783732  
 
       ---  
-      
+
       ### Demande de Stage  
       **Québec, le 26 février 2025**  
       Comité des bourses  
@@ -132,33 +122,69 @@ content:
 
       Je suis actuellement doctorant en sciences de l’administration, spécialisé en intelligence artificielle, et je vous écris pour solliciter un stage au sein de [Nom de l’entreprise/institution] pour [Dates du stage]. Votre travail dans [Domaine pertinent] correspond à mes recherches et à mes objectifs professionnels.  
 
-      [Continuer avec le reste de la lettre...]  
+      Mon parcours inclut un diplôme en génie logiciel et une maîtrise en intelligence artificielle, qui m’ont donné une base solide en programmation et en systèmes intelligents. Chez Huawei, où j’ai travaillé cinq ans comme développeur, analyste et testeur pour le marché iranien, j’ai acquis une expérience pratique en développement de logiciels et en analyse de données. Aujourd’hui, dans mon doctorat, je me concentre sur un projet utilisant l’IA pour améliorer le sauvetage maritime. Ce stage me permettrait d’appliquer mes compétences techniques et mes recherches à des projets concrets, tout en collaborant avec des experts comme vous.  
+
+      Ce stage est une chance unique pour approfondir mon expérience et soutenir mon doctorat. Il faut que je puisse travailler dans un cadre professionnel pour enrichir mes connaissances et avancer dans ma carrière. Mon but est de combiner théorie et pratique pour développer des solutions utiles.  
+
+      Je vous serais reconnaissant de bien vouloir examiner ma candidature. Je me tiens à votre disposition pour un entretien afin de vous expliquer mes motivations et mes compétences.  
+
+      Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.  
+
+      Amirhossein Esmaeilpour  
+      830 rue Ernest Gagnon  
+      Québec, QC, G1S 4M5  
+      Téléphone: 438 9783732  
 
       ---  
-# Footer
-footer_show_references: true
-# references_title: References on request (Override references text)
 
-# Build settings
-# theme: modern-resume-theme (Use this is you are hosting your resume yourself)
-# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+      ### Demande de Bourse  
+      **Québec, le 26 février 2025**  
+      Comité des bourses  
+      Université Idéale  
+      2255 rue de l'université  
+      Québec, QC, Canada, G1V 0A6  
 
-sass:
-  sass_dir: _sass
-  style: compressed
+      **Objet :** Demande de bourse [Nom de la bourse]  
 
-plugins:
- - jekyll-seo-tag
+      Madame, Monsieur,  
 
-exclude : [
-  "Gemfile",
-  "Gemfile.lock",
-  "node_modules",
-  "vendor/bundle/",
-  "vendor/cache/",
-  "vendor/gems/",
-  "vendor/ruby/",
-  "lib/",
-  "scripts/",
-  "docker-compose.yml",
-  ]
+      Je vous adresse cette lettre pour solliciter la bourse [Nom de la bourse] de [Nom de l’institution]. Doctorant en sciences de l’administration avec une spécialisation en intelligence artificielle, je suis convaincu que mon profil répond aux exigences de cette bourse.  
+
+      J’ai complété un diplôme en génie logiciel et une maîtrise en intelligence artificielle, qui m’ont fourni des compétences avancées en programmation et en analyse. Pendant cinq ans chez Huawei, j’ai travaillé comme développeur, analyste et testeur pour le marché iranien, participant à des projets techniques d’envergure. Actuellement, mon projet de doctorat explore l’utilisation de l’IA pour optimiser le sauvetage maritime, un sujet essentiel pour sauver des vies en mer. Ce travail demande des ressources importantes, comme des outils de calcul et des opportunités de présenter mes résultats lors de conférences internationales. Cette bourse est essentielle pour que je puisse me consacrer pleinement à mes recherches et atteindre mes objectifs académiques.  
+
+      Mon ambition est de contribuer à la société grâce à mes compétences en IA, et cette bourse m’aiderait à réaliser ce rêve. Elle me permettrait de me concentrer sur mon projet sans soucis financiers, tout en poursuivant mon développement professionnel et académique.  
+
+      Je vous remercie de considérer ma demande. Je suis prêt à fournir plus d’informations si nécessaire et reste disponible pour un entretien.  
+
+      Veuillez agréer, Madame, Monsieur, l’expression de mes salutations distinguées.  
+
+      Amirhossein Esmaeilpour  
+      830 rue Ernest Gagnon  
+      Québec, QC, G1S 4M5  
+      Téléphone: 438 9783732  
+
+# Footer  
+footer_show_references: true  
+
+# Build settings  
+# theme: modern-resume-theme  
+# remote_theme: sproogen/modern-resume-theme  
+
+sass:  
+  sass_dir: _sass  
+  style: compressed  
+
+plugins:  
+  - jekyll-seo-tag  
+
+exclude:  
+  - "Gemfile"  
+  - "Gemfile.lock"  
+  - "node_modules"  
+  - "vendor/bundle/"  
+  - "vendor/cache/"  
+  - "vendor/gems/"  
+  - "vendor/ruby/"  
+  - "lib/"  
+  - "scripts/"  
+  - "docker-compose.yml"
