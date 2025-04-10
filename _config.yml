@@ -81,7 +81,6 @@ content:
   - title: "Entre mythe et réalité : mieux comprendre [l’intelligence artificielle]"
     layout: text
     content: |
-      Title:
       « Entre mythe et réalité : mieux comprendre [l’intelligence artificielle] »
 
       (s.a.)Dans notre société actuelle, il est essentiel que chacun possède une bonne compréhension du sujet suivant : [l’intelligence artificielle (IA)]. Pourtant, nombreux sont ceux qui en ignorent certains aspects clés ou les comprennent mal.
@@ -98,9 +97,10 @@ content:
 
       (résumé, ouverture)
       Finalement, l'analyse approfondie de ces deux aspects—[impact sur l’emploi] et [enjeux éthiques]—nous permet de mieux appréhender la complexité réelle de [l’intelligence artificielle]. D’ailleurs, comme l’indique clairement la source pertinente : [« L’IA façonne déjà notre quotidien et continuera à redéfinir la société dans les décennies à venir. »] Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
-      ---------------------------
       
-      General title format:
+  - title: "General"
+    layout: text
+    content: |
       « Entre mythe et réalité : mieux comprendre [TOPIC] »
 
       Sujet amené (s.a.)
