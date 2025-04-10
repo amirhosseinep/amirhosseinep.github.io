@@ -120,6 +120,18 @@ content:
 
       Conclusion (résumé, ouverture)
       Finalement, l'analyse approfondie de ces deux aspects—[ASPECT 1] et [ASPECT 2]—nous permet de mieux appréhender la complexité réelle de [TOPIC]. D’ailleurs, comme l’indique clairement la source pertinente : [INSERT CITATION PROVIDED BY PROFESSOR]. Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
+- title: "Titles"
+    layout: text
+    content: |
+      « Mieux vaut prévenir que guérir »  "Prevention is better than cure"
+
+      « Derrière le quotidien, des bénéfices cachés » "Hidden benefits lie behind everyday life"
+      
+      « Petit changement, grand impact » "Small change, big impact"
+      
+      « Loin des yeux, près du cœur » "Out of sight, close to mind"
+      
+      « Une habitude anodine, des avantages étonnants » "A simple habit, surprising benefits"
 
 # Footer  
 footer_show_references: true  
