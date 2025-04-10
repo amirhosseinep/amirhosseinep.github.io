@@ -8,7 +8,7 @@ version: 2
 # Personal info  
 name: Amirhossein Esmaeilpour  
 title: Ph.D Student  
-email: amirhossein.esmaeilpour@ulaval.ca  
+email: amirhosseinep.esmaeilpour@ulaval.ca  
 website: https://amirhosseinep.github.io  
 
 # Dark Mode  
@@ -78,18 +78,71 @@ content:
       * Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS  
       * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity 
 
-# Added Text
-- title: « Entre mythe et réalité : mieux comprendre l’intelligence artificielle »
-  layout: text
-  content: |
-    Dans notre société actuelle, il est essentiel que chacun possède une bonne compréhension du sujet suivant : l’intelligence artificielle (IA). Pourtant, nombreux sont ceux qui en ignorent certains aspects clés ou les comprennent mal.
+  - title: "Entre mythe et réalité : mieux comprendre [l’intelligence artificielle]"
+    layout: text
+    content: |
+      Title:
+      « Entre mythe et réalité : mieux comprendre [l’intelligence artificielle] »
 
-    Ainsi, afin d’obtenir une vision claire et objective de ce sujet, il est nécessaire d'examiner précisément ses différentes facettes.
+      (s.a.)Dans notre société actuelle, il est essentiel que chacun possède une bonne compréhension du sujet suivant : [l’intelligence artificielle (IA)]. Pourtant, nombreux sont ceux qui en ignorent certains aspects clés ou les comprennent mal.
+      (s.p.)
+      Ainsi, afin d’obtenir une vision claire et objective de ce sujet, il est nécessaire d'examiner précisément ses différentes facettes.
+      (s.d.)
+      Parmi ces facettes, nous analyserons plus particulièrement deux aspects fondamentaux : [son impact sur l’emploi] ainsi que [les enjeux éthiques associés].
 
-    Parmi ces facettes, nous analyserons plus particulièrement deux aspects fondamentaux : son impact sur l’emploi ainsi que les enjeux éthiques associés.
+      (a1)
+      Tout d'abord, il importe que nous considérions en détail l’aspect lié à [l’impact de l’intelligence artificielle sur l’emploi]. Cet élément survient principalement parce que [l’automatisation permise par l’IA peut remplacer certaines tâches humaines]. À titre d’exemple, on peut citer [le secteur manufacturier, où les robots intelligents remplacent progressivement le travail manuel]. Par conséquent, cet aspect mérite notre attention car il joue un rôle significatif dans notre compréhension globale du sujet.
 
-    Tout d'abord, il importe que nous considérions en détail l’aspect lié à l’impact de l’intelligence artificielle sur l’emploi. Cet élément survient principalement parce que l’automatisation permise par l’IA peut remplacer certaines tâches humaines. À titre d’exemple, on peut citer le secteur manufacturier, où les robots intelligents remplacent progressivement le travail manuel. Par conséquent, cet aspect mérite notre attention car il joue un rôle significatif dans notre compréhension globale du sujet.
+      (a2)
+      En second lieu, il est crucial que l’on étudie également l’aspect concernant [les enjeux éthiques liés à l’IA]. Ce phénomène s'explique notamment par le fait que [l’IA soulève des questions sur la vie privée, la prise de décision automatisée et les biais discriminatoires]. Pour illustrer, prenons l’exemple suivant : [les systèmes de reconnaissance faciale qui peuvent entraîner une surveillance accrue et intrusive de la population]. Ainsi, cet aspect représente une facette incontournable du sujet traité.
 
-    En second lieu, il est crucial que l’on étudie également l’aspect concernant les enjeux éthiques liés à l’IA. Ce phénomène s'explique notamment par le fait que l’IA soulève des questions sur la vie privée, la prise de décision automatisée et les biais discriminatoires. Pour illustrer, prenons l’exemple suivant : les systèmes de reconnaissance faciale qui peuvent entraîner une surveillance accrue et intrusive de la population. Ainsi, cet aspect représente une facette incontournable du sujet traité.
+      (résumé, ouverture)
+      Finalement, l'analyse approfondie de ces deux aspects—[impact sur l’emploi] et [enjeux éthiques]—nous permet de mieux appréhender la complexité réelle de [l’intelligence artificielle]. D’ailleurs, comme l’indique clairement la source pertinente : [« L’IA façonne déjà notre quotidien et continuera à redéfinir la société dans les décennies à venir. »] Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
+      ---------------------------
+      
+      General title format:
+      « Entre mythe et réalité : mieux comprendre [TOPIC] »
 
-    Finalement, l'analyse approfondie de ces deux aspects—impact sur l’emploi et enjeux éthiques—nous permet de mieux appréhender la complexité réelle de l’intelligence artificielle. D’ailleurs, comme l’indique clairement la source pertinente : « L’IA façonne déjà notre quotidien et continuera à redéfinir la société dans les décennies à venir. » Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
+      Sujet amené (s.a.)
+      Dans notre société actuelle, il est essentiel que chacun possède une bonne compréhension du sujet suivant : [TOPIC]. Pourtant, nombreux sont ceux qui en ignorent certains aspects clés ou les comprennent mal.
+
+      Sujet posé (s.p.)
+      Ainsi, afin d’obtenir une vision claire et objective de ce sujet, il est nécessaire d'examiner précisément ses différentes facettes.
+
+      Sujet divisé (s.d.)
+      Parmi ces facettes, nous analyserons plus particulièrement deux aspects fondamentaux : [ASPECT 1] ainsi que [ASPECT 2].
+
+      Aspect 1 (a1)
+      Tout d'abord, il importe que nous considérions en détail l’aspect lié à [ASPECT 1]. Cet élément survient principalement parce que [expression de cause]. À titre d’exemple, on peut citer [illustration neutre, statistique, fait concret]. Par conséquent, cet aspect mérite notre attention car il joue un rôle significatif dans notre compréhension globale du sujet.
+
+      Aspect 2 (a2)
+      En second lieu, il est crucial que l’on étudie également l’aspect concernant [ASPECT 2]. Ce phénomène s'explique notamment par le fait que [expression de cause]. Pour illustrer, prenons l’exemple suivant : [exemple clair, précis, neutre ou statistique]. Ainsi, cet aspect représente une facette incontournable du sujet traité.
+
+      Conclusion (résumé, ouverture)
+      Finalement, l'analyse approfondie de ces deux aspects—[ASPECT 1] et [ASPECT 2]—nous permet de mieux appréhender la complexité réelle de [TOPIC]. D’ailleurs, comme l’indique clairement la source pertinente : [INSERT CITATION PROVIDED BY PROFESSOR]. Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
+
+# Footer  
+footer_show_references: true  
+
+# Build settings  
+# theme: modern-resume-theme  
+# remote_theme: sproogen/modern-resume-theme  
+
+sass:  
+  sass_dir: _sass  
+  style: compressed  
+
+plugins:  
+  - jekyll-seo-tag  
+
+exclude:  
+  - "Gemfile"  
+  - "Gemfile.lock"  
+  - "node_modules"  
+  - "vendor/bundle/"  
+  - "vendor/cache/"  
+  - "vendor/gems/"  
+  - "vendor/ruby/"  
+  - "lib/"  
+  - "scripts/"  
+  - "docker-compose.yml"
