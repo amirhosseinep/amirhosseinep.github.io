@@ -76,32 +76,20 @@ content:
     content: |  
       * Programming languages and Frameworks: Python, PySpark  
       * Storage Systems: Oracle PL/SQL Developer, MongoDB, HDFS  
-      * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity  
+      * Soft Skills: Goal-Oriented, Collaboration, Problem Solving, Creativity 
 
-  
+# Added Text
+- title: « Entre mythe et réalité : mieux comprendre l’intelligence artificielle »
+  layout: text
+  content: |
+    Dans notre société actuelle, il est essentiel que chacun possède une bonne compréhension du sujet suivant : l’intelligence artificielle (IA). Pourtant, nombreux sont ceux qui en ignorent certains aspects clés ou les comprennent mal.
 
-# Footer  
-footer_show_references: true  
+    Ainsi, afin d’obtenir une vision claire et objective de ce sujet, il est nécessaire d'examiner précisément ses différentes facettes.
 
-# Build settings  
-# theme: modern-resume-theme  
-# remote_theme: sproogen/modern-resume-theme  
+    Parmi ces facettes, nous analyserons plus particulièrement deux aspects fondamentaux : son impact sur l’emploi ainsi que les enjeux éthiques associés.
 
-sass:  
-  sass_dir: _sass  
-  style: compressed  
+    Tout d'abord, il importe que nous considérions en détail l’aspect lié à l’impact de l’intelligence artificielle sur l’emploi. Cet élément survient principalement parce que l’automatisation permise par l’IA peut remplacer certaines tâches humaines. À titre d’exemple, on peut citer le secteur manufacturier, où les robots intelligents remplacent progressivement le travail manuel. Par conséquent, cet aspect mérite notre attention car il joue un rôle significatif dans notre compréhension globale du sujet.
 
-plugins:  
-  - jekyll-seo-tag  
+    En second lieu, il est crucial que l’on étudie également l’aspect concernant les enjeux éthiques liés à l’IA. Ce phénomène s'explique notamment par le fait que l’IA soulève des questions sur la vie privée, la prise de décision automatisée et les biais discriminatoires. Pour illustrer, prenons l’exemple suivant : les systèmes de reconnaissance faciale qui peuvent entraîner une surveillance accrue et intrusive de la population. Ainsi, cet aspect représente une facette incontournable du sujet traité.
 
-exclude:  
-  - "Gemfile"  
-  - "Gemfile.lock"  
-  - "node_modules"  
-  - "vendor/bundle/"  
-  - "vendor/cache/"  
-  - "vendor/gems/"  
-  - "vendor/ruby/"  
-  - "lib/"  
-  - "scripts/"  
-  - "docker-compose.yml"
+    Finalement, l'analyse approfondie de ces deux aspects—impact sur l’emploi et enjeux éthiques—nous permet de mieux appréhender la complexité réelle de l’intelligence artificielle. D’ailleurs, comme l’indique clairement la source pertinente : « L’IA façonne déjà notre quotidien et continuera à redéfinir la société dans les décennies à venir. » Dès lors, n’est-il pas indispensable que chacun approfondisse davantage ce sujet pour éviter toute idée reçue ou incompréhension ?
