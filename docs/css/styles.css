@@ -10970,3 +10970,20 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.bg-primary {
+  background-color: #00A693 !important;
+}
+
+.text-primary {
+  color: #00A693 !important;
+}
+
+.btn-primary {
+  background-color: #00A693 !important;
+  border-color: #00A693 !important;
+}
+.btn-primary:hover {
+  background-color: #008f80 !important; /* optional darker shade */
+  border-color: #008f80 !important;
+}
