@@ -10971,19 +10971,14 @@ section.resume-section .resume-section-content {
   }
 }
 
-.bg-primary {
-  background-color: #00A693 !important;
+/* === COLOR OVERRIDES (place last) === */
+:root {
+  --bs-primary: #00A693;
+  --bs-primary-rgb: 0, 166, 147;   /* <-- critical for bg-primary */
+  --bs-link-color: #00A693;        /* optional */
+  --bs-link-hover-color: #008f80;  /* optional */
 }
 
-.text-primary {
-  color: #00A693 !important;
-}
-
-.btn-primary {
-  background-color: #00A693 !important;
-  border-color: #00A693 !important;
-}
-.btn-primary:hover {
-  background-color: #008f80 !important; /* optional darker shade */
-  border-color: #008f80 !important;
-}
+/* Belt & suspenders overrides */
+#sideNav { background-color: #00A693 !important; }   /* the left panel in this theme */
+.bg-primary { background-color: #00A693 !important; } /* if #sideNav also has bg-primary */
